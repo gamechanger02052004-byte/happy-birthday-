@@ -1,2 +1,2 @@
-# happy-birthday-
-this is for someone special
+# rakhi-birthday
+birthday project it's a gift project 
